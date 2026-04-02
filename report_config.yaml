@@ -1,0 +1,21 @@
+{
+  "api": "/openapi/v2/{omada.omadac_id}/sites/{omada.site_id}/clients",
+  "mod":"POST",
+  "mapping": 
+      {
+      "name": "Device Name",
+      "ip": "IP Address",
+      "mac": "MAC Address",
+      "deviceType": "Type",
+      "ssid": "WiFi",
+      "rssi": "Signal (dBm)",
+      "snr": "SNR",
+      "channel": "Channel",
+      "trafficDown": "Download",
+      "trafficUp": "Upload",
+      "lastSeen": "Last Seen"
+    }
+ }
+
+
+

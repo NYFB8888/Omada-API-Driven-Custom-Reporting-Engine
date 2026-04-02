@@ -1,0 +1,11 @@
+{
+      "baseurl":"https://xx.xx.xx.xx",
+      "username":"admin",
+      "password":"*******",
+      "site":"SITE_LOCAL",
+      "client_id":"*******************",
+      "client_secret":"*******************",
+      "omada_id":"****************",
+      "debug": false,
+      "verify": false
+}
